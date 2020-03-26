@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=883750447417:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=883750447417:domainName=danielszenasi.com:privateZone=false:region=eu-central-1": {
+    "Id": "/hostedzone/Z067144953ZEMFVGP99Q",
+    "Name": "danielszenasi.com."
+  }
+}
